@@ -1,3 +1,9 @@
 # Scratch Core Creator
 
-GitHub: https://github.com/scracc
+## Links
+
+GitHub: [https://github.com/scracc](https://github.com/scracc)
+
+## Projects
+
+- [Scratch Status Monitor (SSM)](https://ssm.scra.cc)
